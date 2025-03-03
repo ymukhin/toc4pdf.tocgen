@@ -1,0 +1,62 @@
+"Preface" 6
+"Notation" 13
+"Contents" 17
+"Ch0. Introduction" 20
+    "0.1" 20
+    "0.2" 25
+    "0.3" 29
+"Ch1. The Kantorovich duality" 36
+    "1.1" 36
+    "1.2" 62
+    "1.3" 58
+    "1.4" 63
+"Ch2. Geometry of optimal transportation" 68
+    "2.1" 69
+    "2.2" 94
+    "2.3" 99
+    "2.4" 106
+    "2.5" 124
+"Ch3. Brenier’s polar factorization theorem" 128
+    "3.1" 128
+    "3.2" 132
+    "3.3" 140
+    "3.4" 143
+"Ch4. The Monge-Ampère equation" 146
+    "4.1" 146
+    "4.2" 152
+    "4.3" 162
+"Ch5. Displacement interpolation and displacement convexity" 164
+    "5.1" 164
+    "5.2" 171
+    "5.3" 185
+    "5.4" 187
+"Ch6. Geometric and Gaussian inequalities" 206
+    "6.1" 207
+    "6.2" 213
+    "6.3" 216
+    "6.4" 223
+"Ch7. The metric side of optimal transportation" 228
+    "7.1" 230
+    "7.2" 235
+    "7.3" 241
+    "7.4" 243
+    "7.5" 246
+    "7.6" 256
+"Ch8. A differential point of view on optimal transportation" 260
+    "8.1" 261
+    "8.2" 273
+    "8.3" 274
+    "8.4" 279
+    "8.5" 285
+    "8.6" 289
+"Ch9. Entropy production and transportation inequalities" 290
+    "9.1" 291
+    "9.2" 302
+    "9.3" 314
+    "9.4" 320
+    "9.5" 324
+    "9.6" 327
+"Ch10. Problems" 330
+"References" 372
+"Table of statements" 388
+"Index" 394

@@ -14,4 +14,21 @@ See https://github.com/Krasjet/pdf.tocgen/blob/master/README.md for the details 
   year={1993},
   publisher={Springer}
 }
+
+@book{villani17bk-topics,
+  title={Topics in optimal transportation},
+  author={Villani, C{\'e}dric},
+  volume={58},
+  year={2017},
+  publisher={American Mathematical Soc.}
+}
+
+@book{villani09bk-ot,
+  title={Optimal transport: old and new},
+  author={Villani, C{\'e}dric and others},
+  volume={338},
+  year={2009},
+  publisher={Springer}
+}
+
 ```
